@@ -1,0 +1,18 @@
+.hozStrip {
+  height: 10px;
+  width: 600px;
+  background-color: #0da192;
+}
+
+.verStrip {
+  height: 600px;
+  width: 10px;
+  background-color: #0da192;
+}
+
+.circle {
+  height: 100px;
+  width: 100px;
+  border: 15px solid #fff;
+  border-radius: 50%;
+}
